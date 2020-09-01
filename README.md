@@ -1,2 +1,2 @@
-# ForcesOfDarkness
+# ForcesOfLight
 Game Template for Collaboration
